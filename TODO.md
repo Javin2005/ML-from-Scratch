@@ -2,9 +2,9 @@
 
 ## Phase 0: Setup and Python/NumPy (week 0)
 
-- [ ] Create GitHub repo `ml-from-scratch`
-- [ ] Add README, TODO, `.gitignore` (`.venv/`, `data/`, `*.pt`, `__pycache__/`), MIT license
-- [ ] Create folder structure (`common/`, `01_...` to `05_...`, `notes/`)
+- [x] Create GitHub repo `ml-from-scratch`
+- [x] Add README, TODO, `.gitignore` (`.venv/`, `data/`, `*.pt`, `__pycache__/`), MIT license
+- [x] Create folder structure (`common/`, `01_...` to `05_...`, `notes/`)
 - [ ] Set up venv and `requirements.txt` (numpy, matplotlib, jupyter; torch later)
 - [ ] Python crash course: classes and dunder methods, comprehensions, slicing
 - [ ] NumPy drills: shapes, `@`, `axis`, broadcasting, vectorizing a loop
